@@ -1,0 +1,3 @@
+[submodule "encabulator"]
+	path = encabulator
+	url = git@github.com:mbround18/auto-flux-regulator-encabulator.git
